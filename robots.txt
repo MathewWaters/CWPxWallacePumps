@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://wallacepump.co.nz/sitemap.xml
